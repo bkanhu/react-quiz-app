@@ -1,0 +1,60 @@
+*,*::after,*::before{
+  box-sizing: border-box;
+}
+html{
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+body{
+  width: 100%;
+  min-height: 100vh;
+}
+.container{
+  display: flex;
+  flex-direction: column  ;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 75%;
+  max-height: 450px;
+  background-color: #fff;
+  box-shadow: 2px 5px 15px #dfdfdf;;
+  padding:4rem;
+  border-radius: 15px;
+
+}
+ul{
+  display: flex;
+  flex-direction: row;
+  row-gap: 25px;
+
+}
+.kadel{
+  list-style-type: none;
+  margin-inline: 12px;
+  padding: 8px 16px;
+  border-radius: 4px;
+  border: 1px solid #ffcf3f;
+}
+.kadel.selected{
+  background: #ffcf3f;
+}
+.message{
+  font-size: 22px;
+  font-weight: 700;
+}
+.correct{
+  color: green;
+}
+.wrong{
+  color: tomato;
+}
+.h1{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 80px;
+}
+.score{
+  font-size: 25px;
+}
