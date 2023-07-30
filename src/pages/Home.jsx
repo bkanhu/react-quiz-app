@@ -5,7 +5,7 @@ const Home = () => {
     <div className={styles.container}>
       Home
       <h1 className="h1"> Quiz App</h1>
-      <div className={styles.flex}>
+      <div className={styles.grid}>
         <div className={styles.col6}>
           <a className={styles.card} href="/country-capitals">
             country-capitals

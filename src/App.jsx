@@ -15,7 +15,12 @@ function App() {
           <Route path="/profile" element={<Profile />} />
           <Route
             path="/country-capitals"
-            element={<QuizCategory category="country-capital" />}
+            element={
+              <QuizCategory
+                title="Country Capital Quiz"
+                category="country-capital"
+              />
+            }
           />
           <Route
             path="/mountains-peaks"
