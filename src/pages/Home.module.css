@@ -1,0 +1,26 @@
+.container {
+  /* background-color: green; */
+  margin-inline: 120px;
+  margin-top: 80px;
+}
+.flex {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  /* flex-direction: row; */
+  /* flex-wrap: nowrap; */
+  gap: 16px;
+}
+.col6 {
+  width: 100%;
+  /* margin: 8px; */
+}
+.card {
+  background-color: #fff;
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 2px 10px 12px #96969656;
+  /* height: 45px; */
+  padding: 16px 32px;
+  display: block;
+  /* margin: 16px; */
+}

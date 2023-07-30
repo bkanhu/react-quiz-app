@@ -1,0 +1,96 @@
+{
+  "country-capital": {
+    "quizzes": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "Berlin", "London"],
+        "answer": "Paris"
+      },
+      {
+        "question": "What is the capital of Japan?",
+        "options": ["Tokyo", "Beijing", "Seoul"],
+        "answer": "Tokyo"
+      },
+      {
+        "question": "What is the capital of Brazil?",
+        "options": ["São Paulo", "Brasília", "Rio de Janeiro"],
+        "answer": "Brasília"
+      },
+      {
+        "question": "What is the capital of Australia?",
+        "options": ["Canberra", "Sydney", "Melbourne"],
+        "answer": "Canberra"
+      },
+      {
+        "question": "What is the capital of India?",
+        "options": ["New Delhi", "Mumbai", "Bangalore"],
+        "answer": "New Delhi"
+      },
+      {
+        "question": "What is the capital of Canada?",
+        "options": ["Toronto", "Ottawa", "Vancouver"],
+        "answer": "Ottawa"
+      },
+      {
+        "question": "What is the capital of South Africa?",
+        "options": ["Cape Town", "Johannesburg", "Pretoria"],
+        "answer": "Pretoria"
+      },
+      {
+        "question": "What is the capital of Russia?",
+        "options": ["Moscow", "Saint Petersburg", "Kiev"],
+        "answer": "Moscow"
+      },
+      {
+        "question": "What is the capital of China?",
+        "options": ["Beijing", "Shanghai", "Hong Kong"],
+        "answer": "Beijing"
+      }
+    ]
+  },
+
+  "mountains-peaks": {
+    "quizzes": [
+      {
+        "question": "Which mountain is the highest peak in the world?",
+        "options": [
+          "Mount Kilimanjaro",
+          "Mount Everest",
+          "Mount Fuji",
+          "Mount McKinley"
+        ],
+        "answer": "Mount Everest"
+      }
+    ]
+  },
+
+  "rivers-lakes": {
+    "quizzes": [
+      {
+        "question": "Which mountain is the highest peak in the world?",
+        "options": [
+          "Mount Kilimanjaro",
+          "Mount Everest",
+          "Mount Fuji",
+          "Mount McKinley"
+        ],
+        "answer": "Mount Everest"
+      }
+    ]
+  },
+
+  "places-in-country": {
+    "quizzes": [
+      {
+        "question": "Which mountain is the highest peak in the world?",
+        "options": [
+          "Mount Kilimanjaro",
+          "Mount Everest",
+          "Mount Fuji",
+          "Mount McKinley"
+        ],
+        "answer": "Mount Everest"
+      }
+    ]
+  }
+}
