@@ -2,11 +2,6 @@
   "country-capital": {
     "quizzes": [
       {
-        "question": "What is the capital of France?",
-        "options": ["Paris", "Berlin", "London"],
-        "answer": "Paris"
-      },
-      {
         "question": "What is the capital of Japan?",
         "options": ["Tokyo", "Beijing", "Seoul"],
         "answer": "Tokyo"
@@ -17,24 +12,39 @@
         "answer": "Brasília"
       },
       {
-        "question": "What is the capital of Australia?",
-        "options": ["Canberra", "Sydney", "Melbourne"],
-        "answer": "Canberra"
-      },
-      {
-        "question": "What is the capital of India?",
-        "options": ["New Delhi", "Mumbai", "Bangalore"],
-        "answer": "New Delhi"
-      },
-      {
         "question": "What is the capital of Canada?",
-        "options": ["Toronto", "Ottawa", "Vancouver"],
+        "options": ["Toronto", "Ottawa", "Montreal"],
         "answer": "Ottawa"
       },
       {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra"],
+        "answer": "Canberra"
+      },
+      {
+        "question": "What is the capital of Egypt?",
+        "options": ["Cairo", "Alexandria", "Giza"],
+        "answer": "Cairo"
+      },
+      {
         "question": "What is the capital of South Africa?",
-        "options": ["Cape Town", "Johannesburg", "Pretoria"],
+        "options": ["Cape Town", "Durban", "Pretoria"],
         "answer": "Pretoria"
+      },
+      {
+        "question": "What is the capital of Germany?",
+        "options": ["Munich", "Berlin", "Frankfurt"],
+        "answer": "Berlin"
+      },
+      {
+        "question": "What is the capital of India?",
+        "options": ["Mumbai", "Delhi", "Kolkata"],
+        "answer": "Delhi"
+      },
+      {
+        "question": "What is the capital of Argentina?",
+        "options": ["Buenos Aires", "Córdoba", "Rosario"],
+        "answer": "Buenos Aires"
       },
       {
         "question": "What is the capital of Russia?",
@@ -43,8 +53,148 @@
       },
       {
         "question": "What is the capital of China?",
-        "options": ["Beijing", "Shanghai", "Hong Kong"],
+        "options": ["Shanghai", "Beijing", "Guangzhou"],
         "answer": "Beijing"
+      },
+      {
+        "question": "What is the capital of United Kingdom?",
+        "options": ["London", "Manchester", "Birmingham"],
+        "answer": "London"
+      },
+      {
+        "question": "What is the capital of Mexico?",
+        "options": ["Mexico City", "Cancún", "Guadalajara"],
+        "answer": "Mexico City"
+      },
+      {
+        "question": "What is the capital of Italy?",
+        "options": ["Rome", "Milan", "Venice"],
+        "answer": "Rome"
+      },
+      {
+        "question": "What is the capital of Spain?",
+        "options": ["Barcelona", "Madrid", "Seville"],
+        "answer": "Madrid"
+      },
+      {
+        "question": "What is the capital of South Korea?",
+        "options": ["Seoul", "Busan", "Incheon"],
+        "answer": "Seoul"
+      },
+      {
+        "question": "What is the capital of Turkey?",
+        "options": ["Istanbul", "Ankara", "Izmir"],
+        "answer": "Ankara"
+      },
+      {
+        "question": "What is the capital of Nigeria?",
+        "options": ["Lagos", "Abuja", "Kano"],
+        "answer": "Abuja"
+      },
+      {
+        "question": "What is the capital of Canada?",
+        "options": ["Toronto", "Ottawa", "Vancouver"],
+        "answer": "Ottawa"
+      },
+      {
+        "question": "What is the capital of Saudi Arabia?",
+        "options": ["Jeddah", "Mecca", "Riyadh"],
+        "answer": "Riyadh"
+      },
+      {
+        "question": "What is the capital of Thailand?",
+        "options": ["Phuket", "Bangkok", "Chiang Mai"],
+        "answer": "Bangkok"
+      },
+      {
+        "question": "What is the capital of Indonesia?",
+        "options": ["Bali", "Jakarta", "Surabaya"],
+        "answer": "Jakarta"
+      },
+      {
+        "question": "What is the capital of Argentina?",
+        "options": ["Buenos Aires", "Córdoba", "Mendoza"],
+        "answer": "Buenos Aires"
+      },
+      {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra"],
+        "answer": "Canberra"
+      },
+      {
+        "question": "What is the capital of Brazil?",
+        "options": ["São Paulo", "Brasília", "Rio de Janeiro"],
+        "answer": "Brasília"
+      },
+      {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "Lyon", "Marseille"],
+        "answer": "Paris"
+      },
+      {
+        "question": "What is the capital of Canada?",
+        "options": ["Toronto", "Vancouver", "Montreal"],
+        "answer": "Montreal"
+      },
+      {
+        "question": "What is the capital of Egypt?",
+        "options": ["Cairo", "Alexandria", "Giza"],
+        "answer": "Cairo"
+      },
+      {
+        "question": "What is the capital of Germany?",
+        "options": ["Berlin", "Munich", "Frankfurt"],
+        "answer": "Berlin"
+      },
+      {
+        "question": "What is the capital of India?",
+        "options": ["New Delhi", "Mumbai", "Kolkata"],
+        "answer": "New Delhi"
+      },
+      {
+        "question": "What is the capital of Japan?",
+        "options": ["Tokyo", "Kyoto", "Osaka"],
+        "answer": "Tokyo"
+      },
+      {
+        "question": "What is the capital of Russia?",
+        "options": ["Moscow", "Saint Petersburg", "Kazan"],
+        "answer": "Moscow"
+      },
+      {
+        "question": "What is the capital of Spain?",
+        "options": ["Madrid", "Barcelona", "Valencia"],
+        "answer": "Madrid"
+      },
+      {
+        "question": "What is the capital of United Kingdom?",
+        "options": ["London", "Manchester", "Edinburgh"],
+        "answer": "London"
+      },
+      {
+        "question": "What is the capital of China?",
+        "options": ["Beijing", "Shanghai", "Guangzhou"],
+        "answer": "Beijing"
+      },
+      {
+        "question": "What is the capital of Mexico?",
+        "options": ["Mexico City", "Cancún", "Guadalajara"],
+        "answer": "Mexico City"
+      },
+      {
+        "question": "What is the capital of Italy?",
+        "options": ["Rome", "Milan", "Florence"],
+        "answer": "Rome"
+      },
+      {
+        "question": "What is the capital of South Korea?",
+        "options": ["Seoul", "Busan", "Incheon"],
+        "answer": "Seoul"
+      },
+      {
+        "question": "What is the capital of Turkey?",
+        "options": ["Ankara", "Istanbul", "Izmir"],
+        "answer": "Ankara"
       }
     ]
   },
@@ -60,6 +210,356 @@
           "Mount McKinley"
         ],
         "answer": "Mount Everest"
+      },
+      {
+        "question": "Which mountain is often referred to as the 'Roof of Africa'?",
+        "options": [
+          "Mount Kilimanjaro",
+          "Mount Everest",
+          "Mount Fuji",
+          "Mount McKinley"
+        ],
+        "answer": "Mount Kilimanjaro"
+      },
+      {
+        "question": "K2, the second highest mountain in the world, is also known by what name?",
+        "options": [
+          "Mount Kilimanjaro",
+          "Mount Everest",
+          "Godwin-Austen",
+          "Mount McKinley"
+        ],
+        "answer": "Godwin-Austen"
+      },
+      {
+        "question": "Which mountain is the highest peak in North America?",
+        "options": [
+          "Mount Kilimanjaro",
+          "Mount Everest",
+          "Mount Fuji",
+          "Mount McKinley"
+        ],
+        "answer": "Mount McKinley"
+      },
+      {
+        "question": "Annapurna I, one of the world's highest peaks, is located in which mountain range?",
+        "options": ["Himalayas", "Andes", "Rocky Mountains", "Alps"],
+        "answer": "Himalayas"
+      },
+      {
+        "question": "Which mountain is known as Japan's highest peak?",
+        "options": [
+          "Mount Kilimanjaro",
+          "Mount Everest",
+          "Mount Fuji",
+          "Mount McKinley"
+        ],
+        "answer": "Mount Fuji"
+      },
+      {
+        "question": "Matterhorn, an iconic mountain, is situated in which mountain range?",
+        "options": ["Alps", "Himalayas", "Andes", "Rocky Mountains"],
+        "answer": "Alps"
+      },
+      {
+        "question": "Which mountain is known as the 'Savage Mountain' due to its dangerous climbing conditions?",
+        "options": ["Mount Kilimanjaro", "K2", "Mount Fuji", "Mount McKinley"],
+        "answer": "K2"
+      },
+      {
+        "question": "Denali is the native name for which mountain?",
+        "options": [
+          "Mount Kilimanjaro",
+          "Mount Everest",
+          "Mount Fuji",
+          "Mount McKinley"
+        ],
+        "answer": "Mount McKinley"
+      },
+      {
+        "question": "Mount Elbrus, the highest peak in Europe, is part of which mountain range?",
+        "options": ["Caucasus Mountains", "Andes", "Rocky Mountains", "Alps"],
+        "answer": "Caucasus Mountains"
+      },
+      {
+        "question": "Which mountain is known as the 'Goddess Mother of the World'?",
+        "options": [
+          "Mount Kilimanjaro",
+          "Mount Everest",
+          "Mount Fuji",
+          "Tian Shan"
+        ],
+        "answer": "Tian Shan"
+      },
+      {
+        "question": "Which mountain is the highest peak in South America?",
+        "options": ["Aconcagua", "Mount Everest", "Denali", "K2"],
+        "answer": "Aconcagua"
+      },
+      {
+        "question": "The mountain known as 'The Matterhorn of the Rockies' is?",
+        "options": [
+          "Grand Teton",
+          "Matterhorn",
+          "Mount McKinley",
+          "Mount Fuji"
+        ],
+        "answer": "Grand Teton"
+      },
+      {
+        "question": "Which mountain is located at the border of Nepal and Sikkim (India)?",
+        "options": ["Kangchenjunga", "Annapurna I", "Makalu", "Cho Oyu"],
+        "answer": "Kangchenjunga"
+      },
+      {
+        "question": "Mount Logan is the highest peak in which country?",
+        "options": ["Canada", "United States", "Russia", "China"],
+        "answer": "Canada"
+      },
+      {
+        "question": "Which mountain is the highest peak in Africa?",
+        "options": [
+          "Mount Kilimanjaro",
+          "Mount Everest",
+          "Mount Fuji",
+          "Mount McKinley"
+        ],
+        "answer": "Mount Kilimanjaro"
+      },
+      {
+        "question": "Mont Blanc, the highest peak in the Alps, is located in which country?",
+        "options": ["France", "Italy", "Switzerland", "Austria"],
+        "answer": "France"
+      },
+      {
+        "question": "Which mountain is known as the 'King of the Rockies'?",
+        "options": [
+          "Mount Robson",
+          "Mount Everest",
+          "Mount Kilimanjaro",
+          "Mount Fuji"
+        ],
+        "answer": "Mount Robson"
+      },
+      {
+        "question": "Mauna Kea, though not as tall as Everest, is the highest point in terms of?",
+        "options": [
+          "Elevation from base",
+          "Prominence",
+          "Latitude",
+          "Distance from the equator"
+        ],
+        "answer": "Elevation from base"
+      },
+      {
+        "question": "Which mountain range is often called the 'Water Towers of Asia'?",
+        "options": ["Himalayas", "Andes", "Rocky Mountains", "Alps"],
+        "answer": "Himalayas"
+      },
+      {
+        "question": "Mount Erebus, the world's southernmost active volcano, is located in which region?",
+        "options": ["Antarctica", "Arctic", "Greenland", "Iceland"],
+        "answer": "Antarctica"
+      },
+      {
+        "question": "Which mountain is known as the 'Pearl of Siberia'?",
+        "options": [
+          "Belukha Mountain",
+          "Mount Everest",
+          "Mount Kilimanjaro",
+          "Mount Fuji"
+        ],
+        "answer": "Belukha Mountain"
+      },
+      {
+        "question": "Mount Olympus, the highest mountain in Greece, is associated with?",
+        "options": [
+          "Greek mythology",
+          "Roman history",
+          "Egyptian civilization",
+          "Norse legends"
+        ],
+        "answer": "Greek mythology"
+      },
+      {
+        "question": "Which mountain range spans the border between the United States and Canada?",
+        "options": ["Rocky Mountains", "Andes", "Himalayas", "Alps"],
+        "answer": "Rocky Mountains"
+      },
+      {
+        "question": "Mount Ararat, a dormant volcano, is a national symbol for which country?",
+        "options": ["Turkey", "Armenia", "Georgia", "Azerbaijan"],
+        "answer": "Armenia"
+      },
+      {
+        "question": "Which mountain is the highest peak in Oceania?",
+        "options": [
+          "Puncak Jaya (Carstensz Pyramid)",
+          "Mauna Kea",
+          "Mount Kilimanjaro",
+          "Mount Everest"
+        ],
+        "answer": "Puncak Jaya (Carstensz Pyramid)"
+      },
+      {
+        "question": "Mount Elbert is the highest peak in which U.S. state?",
+        "options": ["Colorado", "Alaska", "California", "Washington"],
+        "answer": "Colorado"
+      },
+      {
+        "question": "Which mountain range runs through the western edge of South America?",
+        "options": ["Andes", "Himalayas", "Rocky Mountains", "Alps"],
+        "answer": "Andes"
+      },
+      {
+        "question": "Mount Vesuvius, infamous for its eruption in AD 79, is located near which city?",
+        "options": ["Naples", "Rome", "Milan", "Venice"],
+        "answer": "Naples"
+      },
+      {
+        "question": "Which mountain range spans seven countries, including France and Switzerland?",
+        "options": ["Alps", "Himalayas", "Andes", "Rocky Mountains"],
+        "answer": "Alps"
+      },
+      {
+        "question": "Mount Teide, the highest peak in Spain, is situated on which Canary Island?",
+        "options": ["Tenerife", "Gran Canaria", "Lanzarote", "Fuerteventura"],
+        "answer": "Tenerife"
+      },
+      {
+        "question": "Mount Rainier, an active stratovolcano, is located in which U.S. state?",
+        "options": ["Washington", "Oregon", "California", "Alaska"],
+        "answer": "Washington"
+      },
+      {
+        "question": "Which mountain is the highest peak in Russia and Europe?",
+        "options": [
+          "Mount Kilimanjaro",
+          "Mount Everest",
+          "Mount Elbrus",
+          "Mount McKinley"
+        ],
+        "answer": "Mount Elbrus"
+      },
+      {
+        "question": "Which mountain range is known as the 'Spine of the Americas'?",
+        "options": ["Andes", "Himalayas", "Rocky Mountains", "Alps"],
+        "answer": "Andes"
+      },
+      {
+        "question": "Mount Logan, the second highest peak in North America, is located in which country?",
+        "options": ["Canada", "United States", "Russia", "China"],
+        "answer": "Canada"
+      },
+      {
+        "question": "Which mountain is famous for its iconic 'Knife-Edge' ridge?",
+        "options": [
+          "Longs Peak",
+          "Mount Kilimanjaro",
+          "Mount Everest",
+          "Mount Fuji"
+        ],
+        "answer": "Longs Peak"
+      },
+      {
+        "question": "Annapurna II, part of the Annapurna massif, is located in which country?",
+        "options": ["Nepal", "India", "Bhutan", "Tibet (China)"],
+        "answer": "Nepal"
+      },
+      {
+        "question": "Mount Cook, the highest peak in New Zealand, is also known by what Maori name?",
+        "options": ["Aoraki", "Taranaki", "Ruapehu", "Taupo"],
+        "answer": "Aoraki"
+      },
+      {
+        "question": "Which mountain range stretches across the southeastern part of Alaska?",
+        "options": [
+          "Coast Mountains",
+          "Andes",
+          "Rocky Mountains",
+          "Cascade Range"
+        ],
+        "answer": "Coast Mountains"
+      },
+      {
+        "question": "Which mountain is often called the 'Pearl of Siberia'?",
+        "options": [
+          "Belukha Mountain",
+          "Mount Kilimanjaro",
+          "Mount Kilimanjaro",
+          "Mount Fuji"
+        ],
+        "answer": "Belukha Mountain"
+      },
+      {
+        "question": "Mount Pico, the highest point in Portugal, is located on which Atlantic island?",
+        "options": ["Azores", "Madeira", "Canary Islands", "Bermuda"],
+        "answer": "Azores"
+      },
+      {
+        "question": "Which mountain range extends across the western United States and Canada?",
+        "options": ["Rocky Mountains", "Andes", "Himalayas", "Alps"],
+        "answer": "Rocky Mountains"
+      },
+      {
+        "question": "Mount Ararat, a dormant volcano, is located at the border of which two countries?",
+        "options": [
+          "Turkey and Armenia",
+          "Turkey and Georgia",
+          "Turkey and Iran",
+          "Turkey and Syria"
+        ],
+        "answer": "Turkey and Armenia"
+      },
+      {
+        "question": "Which mountain is the highest peak in Australia?",
+        "options": [
+          "Mount Kosciuszko",
+          "Puncak Jaya (Carstensz Pyramid)",
+          "Mount Kilimanjaro",
+          "Mount Everest"
+        ],
+        "answer": "Mount Kosciuszko"
+      },
+      {
+        "question": "Mount Blanc, the highest peak in Western Europe, is located in which country?",
+        "options": ["France", "Italy", "Switzerland", "Austria"],
+        "answer": "France"
+      },
+      {
+        "question": "Mount Denali was named after a Native American word meaning what?",
+        "options": [
+          "The High One",
+          "Eternal Peak",
+          "Snowy Majesty",
+          "Great Explorer"
+        ],
+        "answer": "The High One"
+      },
+      {
+        "question": "Which mountain range is located along the western coast of South America?",
+        "options": ["Andes", "Himalayas", "Rocky Mountains", "Alps"],
+        "answer": "Andes"
+      },
+      {
+        "question": "Mount Etna, one of the world's most active volcanoes, is located on which island?",
+        "options": ["Sicily", "Sardinia", "Corsica", "Elba"],
+        "answer": "Sicily"
+      },
+      {
+        "question": "Which mountain range is often referred to as the 'Swiss Alps'?",
+        "options": ["Alps", "Himalayas", "Andes", "Rocky Mountains"],
+        "answer": "Alps"
+      },
+      {
+        "question": "Mount St. Helens, known for its major eruption in 1980, is located in which U.S. state?",
+        "options": ["Washington", "Oregon", "California", "Alaska"],
+        "answer": "Washington"
+      },
+      {
+        "question": "Which mountain is the highest peak in South America?",
+        "options": ["Aconcagua", "Mount Everest", "Denali", "K2"],
+        "answer": "Aconcagua"
       }
     ]
   },
@@ -67,14 +567,619 @@
   "rivers-lakes": {
     "quizzes": [
       {
-        "question": "Which mountain is the highest peak in the world?",
+        "question": "Which is the longest river (by Length) in the world?",
+        "options": ["Nile", "Amazon River", "Yellow River", "Mekong River"],
+        "answer": "Nile"
+      },
+      {
+        "question": "Which lake is the deepest in the world?",
         "options": [
-          "Mount Kilimanjaro",
-          "Mount Everest",
-          "Mount Fuji",
-          "Mount McKinley"
+          "Lake Baikal",
+          "Lake Superior",
+          "Lake Victoria",
+          "Great Slave Lake"
         ],
-        "answer": "Mount Everest"
+        "answer": "Lake Baikal"
+      },
+      {
+        "question": "Which river is known as the 'River of Five Colors' due to its vibrant hues?",
+        "options": ["Caño Cristales", "Danube", "Colorado River", "Ganges"],
+        "answer": "Caño Cristales"
+      },
+      {
+        "question": "What is the largest freshwater lake (by surface area) in North America?",
+        "options": [
+          "Lake Superior",
+          "Lake Michigan",
+          "Great Bear Lake",
+          "Lake Huron"
+        ],
+        "answer": "Lake Superior"
+      },
+      {
+        "question": "Which river runs through the Grand Canyon in the United States?",
+        "options": [
+          "Colorado River",
+          "Mississippi River",
+          "Missouri River",
+          "Columbia River"
+        ],
+        "answer": "Colorado River"
+      },
+      {
+        "question": "Which river is the longest in Asia?",
+        "options": [
+          "Yangtze River",
+          "Indus River",
+          "Mekong River",
+          "Amur River"
+        ],
+        "answer": "Yangtze River"
+      },
+      {
+        "question": "Lake Titicaca, the highest navigable lake in the world, is located between which two countries?",
+        "options": [
+          "Peru and Bolivia",
+          "Argentina and Chile",
+          "Ecuador and Colombia",
+          "Paraguay and Brazil"
+        ],
+        "answer": "Peru and Bolivia"
+      },
+      {
+        "question": "Which river flows through the city of Paris?",
+        "options": [
+          "Seine River",
+          "Thames River",
+          "Tiber River",
+          "Rhine River"
+        ],
+        "answer": "Seine River"
+      },
+      {
+        "question": "The Great Barrier Reef is the world's largest coral reef system, located off the coast of which country?",
+        "options": ["Australia", "Brazil", "Mexico", "India"],
+        "answer": "Australia"
+      },
+      {
+        "question": "Which river is often referred to as the 'Cradle of Chinese Civilization'?",
+        "options": [
+          "Yellow River",
+          "Yangtze River",
+          "Pearl River",
+          "Amur River"
+        ],
+        "answer": "Yellow River"
+      },
+      {
+        "question": "Lake Victoria, one of the African Great Lakes, is shared by which three countries?",
+        "options": [
+          "Kenya, Tanzania, and Uganda",
+          "Nigeria, Ghana, and Ivory Coast",
+          "Egypt, Sudan, and Ethiopia",
+          "Namibia, Botswana, and Zambia"
+        ],
+        "answer": "Kenya, Tanzania, and Uganda"
+      },
+      {
+        "question": "Which river is famous for its annual migration of wildebeest and zebras in Africa?",
+        "options": [
+          "Nile River",
+          "Congo River",
+          "Zambezi River",
+          "Serengeti River"
+        ],
+        "answer": "Nile River"
+      },
+      {
+        "question": "Lake Champlain, located between the United States and Canada, primarily lies in which U.S. state?",
+        "options": ["Vermont", "New York", "New Hampshire", "Maine"],
+        "answer": "Vermont"
+      },
+      {
+        "question": "The Amazon Rainforest is home to the Amazon River. In which continent is this rainforest located?",
+        "options": ["South America", "Africa", "Asia", "Australia"],
+        "answer": "South America"
+      },
+      {
+        "question": "The Danube River passes through multiple countries before emptying into the Black Sea. Which capital city does it NOT flow through?",
+        "options": ["Vienna", "Budapest", "Belgrade", "Bratislava"],
+        "answer": "Budapest"
+      },
+      {
+        "question": "Which river forms the border between the United States and Mexico?",
+        "options": [
+          "Rio Grande",
+          "Colorado River",
+          "Mississippi River",
+          "Columbia River"
+        ],
+        "answer": "Rio Grande"
+      },
+      {
+        "question": "Lake Garda, the largest lake in Italy, is located in which region?",
+        "options": ["Lombardy", "Tuscany", "Sicily", "Veneto"],
+        "answer": "Lombardy"
+      },
+      {
+        "question": "The Victoria Falls, one of the world's largest waterfalls, is formed by which river?",
+        "options": [
+          "Zambezi River",
+          "Congo River",
+          "Niger River",
+          "Limpopo River"
+        ],
+        "answer": "Zambezi River"
+      },
+      {
+        "question": "Lake Tanganyika, the second-deepest lake in the world, is bordered by how many countries?",
+        "options": ["Four", "Six", "Two", "Eight"],
+        "answer": "Four"
+      },
+      {
+        "question": "Which river is known as the 'River of Sorrows' due to its frequent flooding in ancient times?",
+        "options": [
+          "Yellow River",
+          "Nile River",
+          "Tigris River",
+          "Euphrates River"
+        ],
+        "answer": "Yellow River"
+      },
+      {
+        "question": "The Caspian Sea, the world's largest enclosed inland body of water, is actually what type of geographic feature?",
+        "options": ["Lake", "Sea", "Gulf", "Ocean"],
+        "answer": "Lake"
+      },
+      {
+        "question": "Which river is associated with the city of Rome?",
+        "options": ["Tiber River", "Arno River", "Po River", "Rhone River"],
+        "answer": "Tiber River"
+      },
+      {
+        "question": "Lake Malawi, also known as Lake Nyasa, is located in which region of Africa?",
+        "options": [
+          "East Africa",
+          "West Africa",
+          "North Africa",
+          "Southern Africa"
+        ],
+        "answer": "East Africa"
+      },
+      {
+        "question": "The Three Gorges Dam, the world's largest power station, is situated on which river?",
+        "options": [
+          "Yangtze River",
+          "Mekong River",
+          "Indus River",
+          "Amur River"
+        ],
+        "answer": "Yangtze River"
+      },
+      {
+        "question": "Which river flows through the Grand Teton National Park in the United States?",
+        "options": [
+          "Snake River",
+          "Missouri River",
+          "Yukon River",
+          "Colorado River"
+        ],
+        "answer": "Snake River"
+      },
+      {
+        "question": "Which river is known as the 'River of Gold' due to historical gold mining?",
+        "options": [
+          "Yukon River",
+          "Columbia River",
+          "Amazon River",
+          "Nile River"
+        ],
+        "answer": "Yukon River"
+      },
+      {
+        "question": "Lake Geneva is shared by two countries. Which are they?",
+        "options": [
+          "Switzerland and France",
+          "Italy and Austria",
+          "Spain and Portugal",
+          "Germany and Czech Republic"
+        ],
+        "answer": "Switzerland and France"
+      },
+      {
+        "question": "The Okavango Delta, a unique inland delta, is formed by which river in Africa?",
+        "options": [
+          "Okavango River",
+          "Limpopo River",
+          "Orange River",
+          "Zambezi River"
+        ],
+        "answer": "Okavango River"
+      },
+      {
+        "question": "Which lake is famous for being the saltiest body of water in the world?",
+        "options": [
+          "Dead Sea",
+          "Caspian Sea",
+          "Lake Titicaca",
+          "Great Salt Lake"
+        ],
+        "answer": "Dead Sea"
+      },
+      {
+        "question": "The Ganges River is considered sacred by which major religion?",
+        "options": ["Hinduism", "Buddhism", "Christianity", "Islam"],
+        "answer": "Hinduism"
+      },
+      {
+        "question": "Lake Erie, one of the Great Lakes of North America, is bordered by how many U.S. states?",
+        "options": ["Four", "Two", "Three", "Five"],
+        "answer": "Four"
+      },
+      {
+        "question": "The Danube River flows into which sea?",
+        "options": ["Black Sea", "Mediterranean Sea", "Caspian Sea", "Red Sea"],
+        "answer": "Black Sea"
+      },
+      {
+        "question": "Which lake is located at the highest elevation among the African Great Lakes?",
+        "options": [
+          "Lake Tanganyika",
+          "Lake Victoria",
+          "Lake Malawi",
+          "Lake Turkana"
+        ],
+        "answer": "Lake Tanganyika"
+      },
+      {
+        "question": "The Rhine River forms a natural border between which two countries?",
+        "options": [
+          "Germany and France",
+          "Italy and Austria",
+          "Spain and Portugal",
+          "Netherlands and Belgium"
+        ],
+        "answer": "Germany and France"
+      },
+      {
+        "question": "Lake Athabasca, known for its uranium deposits, is located in which country?",
+        "options": ["Canada", "Australia", "Russia", "Brazil"],
+        "answer": "Canada"
+      },
+      {
+        "question": "Which river is famous for the annual cownose ray migration phenomenon?",
+        "options": [
+          "Chesapeake Bay",
+          "Mississippi River",
+          "Columbia River",
+          "Colorado River"
+        ],
+        "answer": "Chesapeake Bay"
+      },
+      {
+        "question": "Lake Baikal, the world's deepest and oldest freshwater lake, is located in which country?",
+        "options": ["Russia", "China", "Mongolia", "Kazakhstan"],
+        "answer": "Russia"
+      },
+      {
+        "question": "Which river forms the boundary between the states of Texas and Oklahoma?",
+        "options": [
+          "Red River",
+          "Rio Grande",
+          "Sabine River",
+          "Arkansas River"
+        ],
+        "answer": "Red River"
+      },
+      {
+        "question": "Lake Nasser, one of the world's largest reservoirs, was created by the construction of which dam?",
+        "options": [
+          "Aswan High Dam",
+          "Three Gorges Dam",
+          "Grand Coulee Dam",
+          "Kariba Dam"
+        ],
+        "answer": "Aswan High Dam"
+      },
+      {
+        "question": "The Volga River, the longest river in Europe, flows into which body of water?",
+        "options": [
+          "Caspian Sea",
+          "Baltic Sea",
+          "Black Sea",
+          "Mediterranean Sea"
+        ],
+        "answer": "Caspian Sea"
+      },
+      {
+        "question": "Lake Placid, known for hosting the Winter Olympics twice, is located in which U.S. state?",
+        "options": ["New York", "Colorado", "California", "Vermont"],
+        "answer": "New York"
+      },
+      {
+        "question": "Which river runs through the city of Vienna?",
+        "options": ["Danube River", "Rhine River", "Elbe River", "Po River"],
+        "answer": "Danube River"
+      },
+      {
+        "question": "Lake Winnipeg, the sixth-largest freshwater lake in Canada, is located in which province?",
+        "options": ["Manitoba", "Saskatchewan", "Alberta", "Ontario"],
+        "answer": "Manitoba"
+      },
+      {
+        "question": "The Mekong River flows through or along the borders of six countries. Which of these is NOT one of them?",
+        "options": ["Malaysia", "Laos", "Cambodia", "Vietnam"],
+        "answer": "Malaysia"
+      },
+      {
+        "question": "Lake Victoria is the source of which major river in Africa?",
+        "options": [
+          "Nile River",
+          "Congo River",
+          "Zambezi River",
+          "Limpopo River"
+        ],
+        "answer": "Nile River"
+      },
+      {
+        "question": "Which river is known as the 'River of Kings' and flows through Bangkok?",
+        "options": [
+          "Chao Phraya",
+          "Mekong River",
+          "Yangtze River",
+          "Ganges River"
+        ],
+        "answer": "Chao Phraya"
+      },
+      {
+        "question": "Crater Lake, the deepest lake in the United States, is located in which U.S. state?",
+        "options": ["Oregon", "California", "Washington", "Nevada"],
+        "answer": "Oregon"
+      },
+      {
+        "question": "The Zambezi River forms the border between Zambia and which other country?",
+        "options": ["Zimbabwe", "Mozambique", "Namibia", "Angola"],
+        "answer": "Zimbabwe"
+      },
+      {
+        "question": "Lake Tahoe, known for its clarity and scenic beauty, straddles the border of which two U.S. states?",
+        "options": [
+          "California and Nevada",
+          "Oregon and Washington",
+          "Utah and Colorado",
+          "Idaho and Montana"
+        ],
+        "answer": "California and Nevada"
+      },
+      {
+        "question": "Which river flows through the Grand Canyon in the United States?",
+        "options": [
+          "Colorado River",
+          "Mississippi River",
+          "Missouri River",
+          "Columbia River"
+        ],
+        "answer": "Colorado River"
+      },
+      {
+        "question": "The Itaipu Dam, one of the world's largest hydroelectric power plants, is located on which river?",
+        "options": [
+          "Parana River",
+          "Amazon River",
+          "Orinoco River",
+          "Niger River"
+        ],
+        "answer": "Parana River"
+      },
+      {
+        "question": "Lake Chad, once one of the largest lakes in Africa, is bordered by which four countries?",
+        "options": [
+          "Chad, Niger, Nigeria, and Cameroon",
+          "Sudan, Egypt, Libya, and Chad",
+          "Uganda, Kenya, Tanzania, and Rwanda",
+          "Botswana, Namibia, South Africa, and Angola"
+        ],
+        "answer": "Chad, Niger, Nigeria, and Cameroon"
+      },
+      {
+        "question": "Which river is known as the 'River of Sorrow' due to its destructive floods?",
+        "options": [
+          "Huang He (Yellow River)",
+          "Nile River",
+          "Mississippi River",
+          "Indus River"
+        ],
+        "answer": "Huang He (Yellow River)"
+      },
+      {
+        "question": "Lake Chad, located in the Sahelian region of Africa, is primarily fed by which river?",
+        "options": [
+          "Chari River",
+          "Niger River",
+          "Congo River",
+          "Limpopo River"
+        ],
+        "answer": "Chari River"
+      },
+      {
+        "question": "The Yangtze River is home to which rare species of freshwater dolphin?",
+        "options": [
+          "Yangtze River Dolphin (Baiji)",
+          "Amazon River Dolphin",
+          "Indus River Dolphin",
+          "Ganges River Dolphin"
+        ],
+        "answer": "Yangtze River Dolphin (Baiji)"
+      },
+      {
+        "question": "Which river is known as the 'River of Gold' due to historical gold mining?",
+        "options": [
+          "Yukon River",
+          "Columbia River",
+          "Amazon River",
+          "Nile River"
+        ],
+        "answer": "Yukon River"
+      },
+      {
+        "question": "Which lake is the world's largest freshwater lake by volume?",
+        "options": [
+          "Lake Baikal",
+          "Lake Superior",
+          "Caspian Sea",
+          "Lake Tanganyika"
+        ],
+        "answer": "Lake Baikal"
+      },
+      {
+        "question": "What is the longest river in Europe?",
+        "options": [
+          "Volga River",
+          "Danube River",
+          "Rhine River",
+          "Thames River"
+        ],
+        "answer": "Volga River"
+      },
+      {
+        "question": "Lake Maracaibo, one of the largest lakes in South America, is located in which country?",
+        "options": ["Venezuela", "Colombia", "Brazil", "Peru"],
+        "answer": "Venezuela"
+      },
+      {
+        "question": "The Darling River, known as Australia's longest river, is situated in which state?",
+        "options": [
+          "New South Wales",
+          "Victoria",
+          "Queensland",
+          "South Australia"
+        ],
+        "answer": "New South Wales"
+      },
+      {
+        "question": "Which lake is the world's highest navigable lake?",
+        "options": [
+          "Lake Titicaca",
+          "Lake Baikal",
+          "Lake Victoria",
+          "Great Bear Lake"
+        ],
+        "answer": "Lake Titicaca"
+      },
+      {
+        "question": "The Nile River flows through how many countries?",
+        "options": ["11", "4", "7", "3"],
+        "answer": "11"
+      },
+      {
+        "question": "Lake Ohrid, one of Europe's oldest and deepest lakes, is located on the border of which two countries?",
+        "options": [
+          "North Macedonia and Albania",
+          "Greece and Bulgaria",
+          "Serbia and Montenegro",
+          "Kosovo and Bosnia"
+        ],
+        "answer": "North Macedonia and Albania"
+      },
+      {
+        "question": "The Paraguay River flows into which larger river?",
+        "options": [
+          "Parana River",
+          "Amazon River",
+          "Orinoco River",
+          "Niger River"
+        ],
+        "answer": "Parana River"
+      },
+      {
+        "question": "Which river is known as the 'Mother of Russia'?",
+        "options": ["Volga River", "Dnieper River", "Don River", "Ural River"],
+        "answer": "Volga River"
+      },
+      {
+        "question": "Lake Malawi, also called Lake Nyasa, is part of the Great Rift Valley system in which region?",
+        "options": [
+          "East Africa",
+          "West Africa",
+          "North Africa",
+          "Southern Africa"
+        ],
+        "answer": "East Africa"
+      },
+      {
+        "question": "The Columbia River flows through which two U.S. states?",
+        "options": [
+          "Oregon and Washington",
+          "California and Nevada",
+          "Colorado and Wyoming",
+          "Idaho and Montana"
+        ],
+        "answer": "Oregon and Washington"
+      },
+      {
+        "question": "Which lake is the largest saltwater lake in the world?",
+        "options": ["Caspian Sea", "Lake Urmia", "Lake Eyre", "Aral Sea"],
+        "answer": "Caspian Sea"
+      },
+      {
+        "question": "The Mackenzie River, Canada's longest river, flows into which body of water?",
+        "options": [
+          "Arctic Ocean",
+          "Pacific Ocean",
+          "Atlantic Ocean",
+          "Hudson Bay"
+        ],
+        "answer": "Arctic Ocean"
+      },
+      {
+        "question": "Lake Geneva, also known as Lac Léman, is shared by which two countries?",
+        "options": [
+          "Switzerland and France",
+          "Italy and Austria",
+          "Germany and Switzerland",
+          "France and Germany"
+        ],
+        "answer": "Switzerland and France"
+      },
+      {
+        "question": "The Yangtze River flows through which major city in China?",
+        "options": ["Shanghai", "Beijing", "Guangzhou", "Chengdu"],
+        "answer": "Shanghai"
+      },
+      {
+        "question": "Which river is famous for its pink coloration due to high mineral content?",
+        "options": [
+          "Kunene River",
+          "Copper River",
+          "Congo River",
+          "Niger River"
+        ],
+        "answer": "Kunene River"
+      },
+      {
+        "question": "Lake Athabasca, known for its uranium deposits, is located in which Canadian province?",
+        "options": ["Alberta", "Saskatchewan", "Manitoba", "British Columbia"],
+        "answer": "Saskatchewan"
+      },
+      {
+        "question": "The Mississippi River flows into which body of water?",
+        "options": [
+          "Gulf of Mexico",
+          "Atlantic Ocean",
+          "Great Lakes",
+          "Pacific Ocean"
+        ],
+        "answer": "Gulf of Mexico"
+      },
+      {
+        "question": "Which lake is the largest by surface area in Africa?",
+        "options": [
+          "Lake Victoria",
+          "Lake Tanganyika",
+          "Lake Malawi",
+          "Lake Chad"
+        ],
+        "answer": "Lake Victoria"
       }
     ]
   },
@@ -82,14 +1187,254 @@
   "places-in-country": {
     "quizzes": [
       {
-        "question": "Which mountain is the highest peak in the world?",
-        "options": [
-          "Mount Kilimanjaro",
-          "Mount Everest",
-          "Mount Fuji",
-          "Mount McKinley"
-        ],
-        "answer": "Mount Everest"
+        "question": "Where is the Eiffel Tower located?",
+        "options": ["France", "Italy", "Spain", "Germany"],
+        "answer": "France"
+      },
+      {
+        "question": "Which country is home to the Pyramids of Giza?",
+        "options": ["Egypt", "Sudan", "Morocco", "Algeria"],
+        "answer": "Egypt"
+      },
+      {
+        "question": "Where can you find the Taj Mahal?",
+        "options": ["India", "Pakistan", "Bangladesh", "Nepal"],
+        "answer": "India"
+      },
+      {
+        "question": "In which country is the Great Wall located?",
+        "options": ["China", "Japan", "South Korea", "North Korea"],
+        "answer": "China"
+      },
+      {
+        "question": "The Christ the Redeemer statue is a famous landmark in which country?",
+        "options": ["Brazil", "Argentina", "Chile", "Colombia"],
+        "answer": "Brazil"
+      },
+      {
+        "question": "Where can you visit the Acropolis, an ancient citadel with iconic ruins?",
+        "options": ["Greece", "Italy", "Turkey", "Spain"],
+        "answer": "Greece"
+      },
+      {
+        "question": "Which country is known for its stunning fjords and northern lights in places like Tromsø?",
+        "options": ["Norway", "Sweden", "Finland", "Denmark"],
+        "answer": "Norway"
+      },
+      {
+        "question": "Where is the historical city of Kyoto, famous for its traditional temples and gardens?",
+        "options": ["Japan", "South Korea", "China", "Vietnam"],
+        "answer": "Japan"
+      },
+      {
+        "question": "In which country can you explore the ancient city of Petra, famous for its rose-red rock-cut architecture?",
+        "options": ["Jordan", "Lebanon", "Iraq", "Syria"],
+        "answer": "Jordan"
+      },
+      {
+        "question": "Where can you find the ancient ruins of Machu Picchu?",
+        "options": ["Peru", "Indonesia", "Uruguay", "Philippines"],
+        "answer": "Peru"
+      },
+      {
+        "question": "Where is the Sydney Opera House located?",
+        "options": ["Australia", "New Zealand", "Canada", "United Kingdom"],
+        "answer": "Australia"
+      },
+      {
+        "question": "Which country is famous for the ancient city of Rome and the Colosseum?",
+        "options": ["Italy", "Greece", "Spain", "France"],
+        "answer": "Italy"
+      },
+      {
+        "question": "In which country can you explore the historical city of Istanbul, straddling Europe and Asia?",
+        "options": ["Turkey", "Greece", "Egypt", "Syria"],
+        "answer": "Turkey"
+      },
+      {
+        "question": "Where is the Statue of Liberty located?",
+        "options": ["United States", "Canada", "France", "United Kingdom"],
+        "answer": "United States"
+      },
+      {
+        "question": "The Alhambra, a palace and fortress complex, is a UNESCO World Heritage Site in which country?",
+        "options": ["Spain", "Portugal", "Italy", "Greece"],
+        "answer": "Spain"
+      },
+      {
+        "question": "In which country is the city of Rio de Janeiro, known for its Carnival and Copacabana Beach?",
+        "options": ["Brazil", "Argentina", "Chile", "Colombia"],
+        "answer": "Brazil"
+      },
+      {
+        "question": "Where is the historical city of Angkor Wat, known for its ancient temples?",
+        "options": ["Cambodia", "Vietnam", "Thailand", "Myanmar"],
+        "answer": "Cambodia"
+      },
+      {
+        "question": "The Tower Bridge and Buckingham Palace are landmarks in which country?",
+        "options": ["United Kingdom", "France", "Germany", "Spain"],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "In which country can you find the iconic Christchurch Cathedral and the Kiwi bird?",
+        "options": ["New Zealand", "Australia", "South Africa", "Ireland"],
+        "answer": "New Zealand"
+      },
+      {
+        "question": "Where is the ancient city of Cusco, often used as a gateway to Machu Picchu?",
+        "options": ["Peru", "Bolivia", "Ecuador", "Chile"],
+        "answer": "Peru"
+      },
+      {
+        "question": "Which country is famous for its windmills, tulips, and historic canals in cities like Amsterdam?",
+        "options": ["Netherlands", "Belgium", "Germany", "Denmark"],
+        "answer": "Netherlands"
+      },
+      {
+        "question": "Where is the iconic Hollywood sign located?",
+        "options": ["United States", "Canada", "United Kingdom", "Australia"],
+        "answer": "United States"
+      },
+      {
+        "question": "In which country can you explore the ancient ruins of Petra, famous for its rock-cut architecture?",
+        "options": ["Jordan", "Egypt", "Lebanon", "Iraq"],
+        "answer": "Jordan"
+      },
+      {
+        "question": "Where is the Parthenon, a symbol of ancient Greek civilization, located?",
+        "options": ["Greece", "Italy", "Turkey", "Egypt"],
+        "answer": "Greece"
+      },
+      {
+        "question": "The Chichen Itza, a UNESCO World Heritage Site, is located in which country?",
+        "options": ["Mexico", "Guatemala", "Belize", "Honduras"],
+        "answer": "Mexico"
+      },
+      {
+        "question": "In which country can you find the historical city of Marrakech and the Atlas Mountains?",
+        "options": ["Morocco", "Algeria", "Tunisia", "Libya"],
+        "answer": "Morocco"
+      },
+      {
+        "question": "Where is the Petronas Twin Towers, once the world's tallest buildings?",
+        "options": ["Malaysia", "Singapore", "Indonesia", "Vietnam"],
+        "answer": "Malaysia"
+      },
+      {
+        "question": "In which country can you visit the iconic Sagrada Familia, designed by architect Antoni Gaudí?",
+        "options": ["Spain", "France", "Italy", "Portugal"],
+        "answer": "Spain"
+      },
+      {
+        "question": "Where is the historical city of Kyoto, known for its traditional temples and gardens?",
+        "options": ["Japan", "South Korea", "China", "Vietnam"],
+        "answer": "Japan"
+      },
+      {
+        "question": "The Egyptian Museum, home to many ancient artifacts including King Tut's mask, is located in which country?",
+        "options": ["Egypt", "Sudan", "Greece", "Italy"],
+        "answer": "Egypt"
+      },
+      {
+        "question": "Where is the famous archaeological site of Pompeii, buried by a volcanic eruption?",
+        "options": ["Italy", "Greece", "Turkey", "Egypt"],
+        "answer": "Italy"
+      },
+      {
+        "question": "In which country is the historic city of Prague, known for its charming architecture and Charles Bridge?",
+        "options": ["Czech Republic", "Poland", "Austria", "Hungary"],
+        "answer": "Czech Republic"
+      },
+      {
+        "question": "Where can you find the stunning Aletsch Glacier, the largest glacier in the Alps?",
+        "options": ["Switzerland", "Austria", "Italy", "France"],
+        "answer": "Switzerland"
+      },
+      {
+        "question": "The Forbidden City, an imperial palace complex, is located in which country?",
+        "options": ["China", "Japan", "South Korea", "Vietnam"],
+        "answer": "China"
+      },
+      {
+        "question": "In which country is the ancient city of Bagan, known for its thousands of temples and pagodas?",
+        "options": ["Myanmar", "Thailand", "Cambodia", "Laos"],
+        "answer": "Myanmar"
+      },
+      {
+        "question": "Where is the historic city of Dubrovnik, often referred to as the 'Pearl of the Adriatic'?",
+        "options": ["Croatia", "Greece", "Italy", "Spain"],
+        "answer": "Croatia"
+      },
+      {
+        "question": "Which country is home to the famous archaeological site of Stonehenge?",
+        "options": ["United Kingdom", "France", "Ireland", "Germany"],
+        "answer": "United Kingdom"
+      },
+      {
+        "question": "In which country can you find the impressive ruins of Machu Picchu?",
+        "options": ["Peru", "Bolivia", "Ecuador", "Colombia"],
+        "answer": "Peru"
+      },
+      {
+        "question": "The Red Square and St. Basil's Cathedral are landmarks located in which country?",
+        "options": ["Russia", "Poland", "Ukraine", "Belarus"],
+        "answer": "Russia"
+      },
+      {
+        "question": "Where is the iconic Neuschwanstein Castle, which served as inspiration for Disney's Sleeping Beauty Castle?",
+        "options": ["Germany", "France", "Austria", "Switzerland"],
+        "answer": "Germany"
+      },
+      {
+        "question": "In which country can you explore the ancient city of Thebes and the Valley of the Kings?",
+        "options": ["Egypt", "Sudan", "Greece", "Italy"],
+        "answer": "Egypt"
+      },
+      {
+        "question": "Where is the famous Golden Gate Bridge, an iconic suspension bridge?",
+        "options": ["United States", "Canada", "United Kingdom", "Australia"],
+        "answer": "United States"
+      },
+      {
+        "question": "In which country can you visit the historical city of Fez and the Atlas Mountains?",
+        "options": ["Morocco", "Algeria", "Tunisia", "Libya"],
+        "answer": "Morocco"
+      },
+      {
+        "question": "The Louvre Museum, home to the Mona Lisa, is located in which country?",
+        "options": ["France", "Italy", "Spain", "United Kingdom"],
+        "answer": "France"
+      },
+      {
+        "question": "In which country is the city of Rio de Janeiro, known for its Carnival and Copacabana Beach?",
+        "options": ["Brazil", "Argentina", "Chile", "Colombia"],
+        "answer": "Brazil"
+      },
+      {
+        "question": "Where can you find the historic city of Kyoto, known for its traditional temples and gardens?",
+        "options": ["Japan", "South Korea", "China", "Vietnam"],
+        "answer": "Japan"
+      },
+      {
+        "question": "In which country is the historical city of Marrakech and the Atlas Mountains?",
+        "options": ["Morocco", "Algeria", "Tunisia", "Libya"],
+        "answer": "Morocco"
+      },
+      {
+        "question": "Where is the iconic Petronas Twin Towers, once the world's tallest buildings?",
+        "options": ["Malaysia", "Singapore", "Indonesia", "Vietnam"],
+        "answer": "Malaysia"
+      },
+      {
+        "question": "In which country is the famous city of Venice, known for its canals and gondolas?",
+        "options": ["Italy", "Greece", "Spain", "France"],
+        "answer": "Italy"
+      },
+      {
+        "question": "Where can you find the historic city of Petra, famous for its rock-cut architecture?",
+        "options": ["Jordan", "Egypt", "Lebanon", "Iraq"],
+        "answer": "Jordan"
       }
     ]
   }
